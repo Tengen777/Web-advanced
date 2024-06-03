@@ -15,4 +15,4 @@ let leeftijd = prompt("wat is je leeftijd");
     } else {
         console.log("No entry");
     }
-    //
+    
